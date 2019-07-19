@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "719318968415",
+    "firebase_url": "https://paymat2-3436a.firebaseio.com",
+    "project_id": "paymat2-3436a",
+    "storage_bucket": "paymat2-3436a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719318968415:android:bfad93637b1f2c13",
+        "android_client_info": {
+          "package_name": "com.example.paymat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719318968415-mc0fd6ptjfieiv6ihj4cfc3prvuofgpa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.paymat",
+            "certificate_hash": "916cb0c815239de2a48e9924eae353cc3551f585"
+          }
+        },
+        {
+          "client_id": "719318968415-jp13o37dvqcnphnruqrt75inp03tmkt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeOE3PvAUXDYNukZCDfGnfa2AD66Fk2OY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719318968415-jp13o37dvqcnphnruqrt75inp03tmkt4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
